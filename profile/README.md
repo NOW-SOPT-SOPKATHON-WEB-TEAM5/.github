@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![표지 (1)](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/ae3ff739-f063-4448-9e01-630f849ea793)
+![Slide 16_9 - 65](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/652c00e4-8a4d-4cdd-90cb-f430c220dee6)
+![Slide 16_9 - 60](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/dfda31c5-4565-4ba3-ba3d-21bf09dcfa05)
+![Slide 16_9 - 60](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/dfa5cbc1-0b7b-4842-acd2-d6a795f8a2f1)
+![Slide 16_9 - 61](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/1993e2a5-cc94-410b-a428-a56f94aebdb9)
+![Slide 16_9 - 64](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/e02e9e64-472f-442a-842a-9a6dc7b4e882)
+![Frame](https://github.com/NOW-SOPT-SOPKATHON-WEB-TEAM5/.github/assets/90364711/376ec285-dd94-4a07-9a7e-15bfcf4fd42d)
